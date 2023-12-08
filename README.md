@@ -12,3 +12,5 @@ To run the project go in the main folder and run the following command:
 Then you should be able to use the streamlit application at [http://localhost:8501/](http://localhost:8501/).  
 The FastAPI documentation is available at [http://localhost:8000/docs](http://localhost:8000/docs).
 
+# Demonstration
+![Demonstration](images/penguins.gif)
