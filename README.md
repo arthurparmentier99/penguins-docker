@@ -7,7 +7,7 @@ To clone the project you can use the following command:
 `git clone https://github.com/arthurparmentier99/penguins-docker.git`
 
 # Run the project
-To run the project go in the compose folder and run the following command:  
+To run the project go in the main folder and run the following command:  
 `docker compose up --build`  
 Then you should be able to use the streamlit application at [http://localhost:8501/](http://localhost:8501/).  
 The FastAPI documentation is available at [http://localhost:8000/docs](http://localhost:8000/docs).
